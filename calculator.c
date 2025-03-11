@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+int main()
+ {
    char Operator;
    float num1, num2, result = 0;
    printf(" Enter any one operator like +, -, *, / : ");
@@ -19,4 +20,4 @@ int main() {
    }
    printf("The value = %f", result);
    return 0;
-}}
+}
